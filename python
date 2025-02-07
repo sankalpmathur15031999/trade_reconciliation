@@ -1,0 +1,24 @@
+Loading broker trades...
+
+Processing email file: C:\Users\Sankalp\Desktop\trade_reconciliation\data\Trade File BROKER 1 - 31_01_2025.eml
+Found Excel attachment: TradeFile1.xlsx
+Loaded file with columns: ['Deal Date', 'party code/SEBI regn code of party', 'Instrument ISIN', 'Buy/Sell Flag', 'QTY', 'COST', 'Col 8', 'NET AMOUNT', 'Brokerage Amount', 'Settlement Date', 'STT', 'Exchange Code', 'Depository Code']
+Identifying file type for: TradeFile1.xlsx
+Identified as broker trades based on filename.
+Broker trades appended.
+
+Processing email file: C:\Users\Sankalp\Desktop\trade_reconciliation\data\Trade File BROKER 2 - 31_01_2025.eml
+Found Excel attachment: TradeFile2.xlsx
+Loaded file with columns: ['Deal Date', 'party code/SEBI regn code of party', 'Instrument ISIN', 'Buy/Sell Flag', 'QTY', 'COST', 'Col 8', 'NET AMOUNT', 'Brokerage Amount', 'Settlement Date', 'STT', 'Exchange Code', 'Depository Code']
+Identifying file type for: TradeFile2.xlsx
+Identified as broker trades based on filename.
+Broker trades appended.
+
+Processing email file: C:\Users\Sankalp\Desktop\trade_reconciliation\data\Trade File BROKER 3 - 31_01_2025.eml
+Found Excel attachment: TradeFile3.xlsx
+Loaded file with columns: ['Deal Date', 'party code/SEBI regn code of party', 'Instrument ISIN', 'Buy/Sell Flag', 'QTY', 'COST', 'Col 8', 'NET AMOUNT', 'Brokerage Amount', 'Settlement Date', 'STT', 'Exchange Code', 'Depository Code']
+Identifying file type for: TradeFile3.xlsx
+Identified as broker trades based on filename.
+Broker trades appended.
+Running trade reconciliation...
+Error in report generation: TradeReconciliation.__init__() takes 2 positional arguments but 3 were given
